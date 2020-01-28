@@ -9,4 +9,5 @@ class Anagram
       word.chars.sort == @word.chars.sort  
     end 
   end 
+  
 end 
